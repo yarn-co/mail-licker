@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/yarn-co/mail-licker#readme",
   "dependencies": {
-    "nodemailer": "~1.4.0",
-    "email-templates": "~1.2.1",
-    "nodemailer-html-to-text": "~1.0.2",
-    "hoek": "~2.14.0"
+    "nodemailer": "~2.5.0",
+    "email-templates": "~2.3.4",
+    "nodemailer-html-to-text": "~2.1.0",
+    "hoek": "^4.0.1"
   }
 }
