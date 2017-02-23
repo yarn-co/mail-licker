@@ -26,6 +26,7 @@
     "nodemailer": "~2.5.0",
     "email-templates": "~2.3.4",
     "nodemailer-html-to-text": "~2.1.0",
-    "hoek": "^4.0.1"
+    "hoek": "^4.0.1",
+    "swig": "^1.3.2"
   }
 }
