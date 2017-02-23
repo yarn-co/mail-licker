@@ -1,6 +1,6 @@
 {
   "name": "mail-licker",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Licks and sticks mail, with templates.",
   "main": "lib/index.js",
   "scripts": {
